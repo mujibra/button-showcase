@@ -1,0 +1,73 @@
+[
+  {
+    "ProductId": "1",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446997/sub/idgoods_446997_sub1.jpg?width=1600&impolicy=quality_75"
+  },
+  {
+    "ProductId": "1",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446997/sub/goods_446997_sub18.jpg?width=1600&impolicy=quality_75"
+  },
+
+  {
+    "ProductId": "2",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449017/sub/goods_449017_sub18.jpg?width=1600&impolicy=quality_75"
+  },
+  {
+    "ProductId": "2",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/449017/sub/idgoods_449017_sub1.jpg?width=1600&impolicy=quality_75"
+  },
+
+  {
+    "ProductId": "3",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446903/sub/idgoods_446903_sub1.jpg?width=1600&impolicy=quality_75"
+  },
+  {
+    "ProductId": "3",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446903/sub/goods_446903_sub18.jpg?width=1600&impolicy=quality_75"
+  },
+
+  {
+    "ProductId": "4",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/448383/sub/idgoods_448383_sub2.jpg?width=1600&impolicy=quality_75"
+  },
+  {
+    "ProductId": "4",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/449747/sub/idgoods_449747_sub7.jpg?width=1600&impolicy=quality_75"
+  },
+
+  {
+    "ProductId": "5",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/447784/sub/idgoods_447784_sub1.jpg?width=1600&impolicy=quality_75"
+  },
+  {
+    "ProductId": "5",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447784/sub/goods_447784_sub9.jpg?width=1600&impolicy=quality_75"
+  },
+
+  {
+    "ProductId": "6",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/447647/sub/idgoods_447647_sub6.jpg?width=1600&impolicy=quality_75"
+  },
+  {
+    "ProductId": "6",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447647/sub/goods_447647_sub9.jpg?width=1600&impolicy=quality_75"
+  },
+
+  {
+    "ProductId": "7",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/445053/sub/idgoods_445053_sub2.jpg?width=1600&impolicy=quality_75"
+  },
+  {
+    "ProductId": "7",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445053/sub/goods_445053_sub18.jpg?width=1600&impolicy=quality_75"
+  },
+
+  {
+    "ProductId": "8",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446819/sub/idgoods_446819_sub2.jpg?width=1600&impolicy=quality_75"
+  },
+  {
+    "ProductId": "8",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446819/sub/goods_446819_sub13.jpg?width=1600&impolicy=quality_75"
+  }
+]

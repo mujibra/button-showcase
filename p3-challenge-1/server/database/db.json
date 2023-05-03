@@ -1,0 +1,271 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "mujibra",
+      "email": "mujib@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "082312359653",
+      "address": "Tangerang"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "MEN Premium Linen Collar Striped Shirt",
+      "slug": [
+        { "id": 1, "name": "MEN" },
+        { "id": 2, "name": "CASUAL SHIRTS (LONG SLEEVES)" }
+      ],
+      "description": "Shirt made from 100% high-quality natural linen with coolness and sheen. Relaxed fit.",
+      "price": 499000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446997/item/idgoods_66_446997.jpg?width=1600&impolicy=quality_75",
+      "categoryId": "1",
+      "userId": "1",
+      "categories": [
+        {
+          "id": "1",
+          "name": "Tops Collections"
+        },
+        {
+          "id": "2",
+          "name": "Bottoms Collections"
+        },
+        {
+          "id": "3",
+          "name": "Outwear Collections"
+        }
+      ],
+      "images": [
+        {
+          "id": "1",
+          "productId": "1",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446997/sub/idgoods_446997_sub1.jpg?width=1600&impolicy=quality_75"
+        },
+        {
+          "id": "2",
+          "productId": "1",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446997/sub/goods_446997_sub18.jpg?width=1600&impolicy=quality_75"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "MEN DRY-EX Crew Neck Short Sleeve T-Shirt",
+      "slug": [
+        { "id": 1, "name": "MEN" },
+        { "id": 2, "name": "T-SHIRTS (SHORT SLEEVES)" }
+      ],
+      "description": "Featuring DRY-EX technology.",
+      "price": 199000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/449017/item/idgoods_66_449017.jpg?width=1600&impolicy=quality_75",
+      "categoryId": "1",
+      "userId": "1",
+      "categories": [
+        {
+          "id": "1",
+          "name": "Tops Collections"
+        }
+      ],
+      "images": [
+        {
+          "id": "3",
+          "productId": "2",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449017/sub/goods_449017_sub18.jpg?width=1600&impolicy=quality_75"
+        },
+        {
+          "id": "4",
+          "productId": "2",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/449017/sub/idgoods_449017_sub1.jpg?width=1600&impolicy=quality_75"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Indigo Dye Sweat Long Sleeve Shirt",
+      "slug": [
+        { "id": 1, "name": "MEN" },
+        { "id": 2, "name": "SWEAT COLLECTIONS" }
+      ],
+      "description": "Indigo color and a loose-fitting cut, perfect for casual styling.",
+      "price": 299000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446903/item/idgoods_65_446903.jpg?width=1600&impolicy=quality_75",
+      "categoryId": "1",
+      "userId": "1",
+      "categories": [
+        {
+          "id": "1",
+          "name": "Tops Collections"
+        }
+      ],
+      "images": [
+        {
+          "id": "5",
+          "productId": "3",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446903/sub/idgoods_446903_sub1.jpg?width=1600&impolicy=quality_75"
+        },
+        {
+          "id": "6",
+          "productId": "3",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446903/sub/goods_446903_sub18.jpg?width=1600&impolicy=quality_75"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "MEN Celana Jogger",
+      "slug": [
+        { "id": 1, "name": "MEN" },
+        { "id": 2, "name": "CASUAL PANTS" }
+      ],
+      "description": "Celana jogger Pria dengan desain easy waist yang terasa nyaman. Kini dengan tekstur lebih lembut.",
+      "price": 299000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/449747/item/idgoods_56_449747.jpg?width=1600&impolicy=quality_75",
+      "categoryId": "2",
+      "userId": "1",
+      "categories": [
+        {
+          "id": "2",
+          "name": "Bottoms Collections"
+        }
+      ],
+      "images": [
+        {
+          "id": "7",
+          "productId": "4",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/448383/sub/idgoods_448383_sub2.jpg?width=1600&impolicy=quality_75"
+        },
+        {
+          "id": "8",
+          "productId": "4",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/449747/sub/idgoods_449747_sub7.jpg?width=1600&impolicy=quality_75"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Wide Fit Baker Pants Uniqlo U",
+      "slug": [
+        { "id": 1, "name": "MEN" },
+        { "id": 2, "name": "CASUAL PANTS" }
+      ],
+      "description": "Military-style baker pants. Loose-fitting cut with distinctive large pockets.",
+      "price": 399000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/447784/item/idgoods_30_447784.jpg?width=1600&impolicy=quality_75",
+      "categoryId": "2",
+      "userId": "1",
+      "categories": [
+        {
+          "id": "2",
+          "name": "Bottoms Collections"
+        }
+      ],
+      "images": [
+        {
+          "id": "9",
+          "productId": "5",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/447784/sub/idgoods_447784_sub1.jpg?width=1600&impolicy=quality_75"
+        },
+        {
+          "id": "10",
+          "productId": "5",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447784/sub/goods_447784_sub9.jpg?width=1600&impolicy=quality_75"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "MEN Ultra Stretch Skinny Jeans",
+      "slug": [
+        { "id": 1, "name": "MEN" },
+        { "id": 2, "name": "JEANS" }
+      ],
+      "description": "Amazing stretch for comfort and a flattering style. Sleek, skinny fit.",
+      "price": 599000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/447647/item/idgoods_64_447647.jpg?width=1600&impolicy=quality_75",
+      "categoryId": "2",
+      "userId": "1",
+      "categories": [
+        {
+          "id": "2",
+          "name": "Bottoms Collections"
+        }
+      ],
+      "images": [
+        {
+          "id": "11",
+          "productId": "6",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/447647/sub/idgoods_447647_sub6.jpg?width=1600&impolicy=quality_75"
+        },
+        {
+          "id": "12",
+          "productId": "6",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447647/sub/goods_447647_sub9.jpg?width=1600&impolicy=quality_75"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Over Shirt Jacket",
+      "slug": [
+        { "id": 1, "name": "MEN" },
+        { "id": 2, "name": "JEANS" }
+      ],
+      "description": "Relaxed cut that is perfect for layering.",
+      "price": 599000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/445053/item/idgoods_08_445053.jpg?width=1600&impolicy=quality_75",
+      "categoryId": "3",
+      "userId": "1",
+      "categories": [
+        {
+          "id": "3",
+          "name": "Outwear Collections"
+        }
+      ],
+      "images": [
+        {
+          "id": "13",
+          "productId": "7",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/445053/sub/idgoods_445053_sub2.jpg?width=1600&impolicy=quality_75"
+        },
+        {
+          "id": "14",
+          "productId": "7",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445053/sub/goods_445053_sub18.jpg?width=1600&impolicy=quality_75"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "MEN Pocketable UV Protection Anorak Parka",
+      "slug": [
+        { "id": 1, "name": "MEN" },
+        { "id": 2, "name": "BLOUSON & HOODIES" }
+      ],
+      "description": "3D Cut for easy movement. Convenient protection against the sun (UPF40) and light rain.",
+      "price": 499000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446819/item/idgoods_09_446819.jpg?width=1600&impolicy=quality_75",
+      "categoryId": "3",
+      "userId": "1",
+      "categories": [
+        {
+          "id": "3",
+          "name": "Outwear Collections"
+        }
+      ],
+      "images": [
+        {
+          "id": "15",
+          "productId": "8",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446819/sub/idgoods_446819_sub2.jpg?width=1600&impolicy=quality_75"
+        },
+        {
+          "id": "16",
+          "productId": "8",
+          "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446819/sub/goods_446819_sub13.jpg?width=1600&impolicy=quality_75"
+        }
+      ]
+    }
+  ]
+}

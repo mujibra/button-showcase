@@ -1,0 +1,74 @@
+[
+  {
+    "name": "MEN Premium Linen Collar Striped Shirt",
+    "slug": "CASUAL SHIRTS (LONG SLEEVES)",
+    "description": "Shirt made from 100% high-quality natural linen with coolness and sheen. Relaxed fit.",
+    "price": 499000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446997/item/idgoods_66_446997.jpg?width=1600&impolicy=quality_75",
+    "CategoryId": "1",
+    "UserId": "1"
+  },
+  {
+    "name": "MEN DRY-EX Crew Neck Short Sleeve T-Shirt",
+    "slug": "T-SHIRTS (SHORT SLEEVES)",
+    "description": "Featuring DRY-EX technology.",
+    "price": 199000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/449017/item/idgoods_66_449017.jpg?width=1600&impolicy=quality_75",
+    "CategoryId": "1",
+    "UserId": "1"
+  },
+  {
+    "name": "Indigo Dye Sweat Long Sleeve Shirt",
+    "slug": "SWEAT COLLECTIONS",
+    "description": "Indigo color and a loose-fitting cut, perfect for casual styling.",
+    "price": 299000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446903/item/idgoods_65_446903.jpg?width=1600&impolicy=quality_75",
+    "CategoryId": "1",
+    "UserId": "1"
+  },
+  {
+    "name": "MEN Celana Jogger",
+    "slug": "CASUAL PANTS",
+    "description": "Celana jogger Pria dengan desain easy waist yang terasa nyaman. Kini dengan tekstur lebih lembut.",
+    "price": 299000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/449747/item/idgoods_56_449747.jpg?width=1600&impolicy=quality_75",
+    "CategoryId": "2",
+    "UserId": "1"
+  },
+  {
+    "name": "Wide Fit Baker Pants Uniqlo U",
+    "slug": "CASUAL PANTS",
+    "description": "Military-style baker pants. Loose-fitting cut with distinctive large pockets.",
+    "price": 399000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/447784/item/idgoods_30_447784.jpg?width=1600&impolicy=quality_75",
+    "CategoryId": "2",
+    "UserId": "1"
+  },
+  {
+    "name": "MEN Ultra Stretch Skinny Jeans",
+    "slug": "JEANS",
+    "description": "Amazing stretch for comfort and a flattering style. Sleek, skinny fit.",
+    "price": 599000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/447647/item/idgoods_64_447647.jpg?width=1600&impolicy=quality_75",
+    "CategoryId": "2",
+    "UserId": "1"
+  },
+  {
+    "name": "Over Shirt Jacket",
+    "slug": "JEANS",
+    "description": "Relaxed cut that is perfect for layering.",
+    "price": 599000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/445053/item/idgoods_08_445053.jpg?width=1600&impolicy=quality_75",
+    "CategoryId": "3",
+    "UserId": "1"
+  },
+  {
+    "name": "MEN Pocketable UV Protection Anorak Parka",
+    "slug": "BLOUSON & HOODIES",
+    "description": "3D Cut for easy movement. Convenient protection against the sun (UPF40) and light rain.",
+    "price": 499000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446819/item/idgoods_09_446819.jpg?width=1600&impolicy=quality_75",
+    "CategoryId": "3",
+    "UserId": "1"
+  }
+]

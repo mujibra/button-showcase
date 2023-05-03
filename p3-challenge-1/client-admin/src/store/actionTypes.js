@@ -1,0 +1,10 @@
+export const SET_PRODUCTS = "SET_PRODUCTS";
+export const SET_CATEGORY = "SET_CATEGORY";
+export const CREATE_CATEGORY = "CREATE_CATEGORY";
+export const SET_LOADING = "SET_LOADING";
+export const SET_ERROR = "SET_ERROR";
+export const SET_PRODUCTS_DETAIL = "SET_PRODUCTS_DETAIL";
+export const CREATE_PRODUCT = "CREATE_PRODUCT";
+export const UPDATE_PRODUCT = "UPDATE_PRODUCT";
+export const LOGIN = "LOGIN";
+export const REGISTER = "REGISTER";
